@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 # Welcome
 
-I'm Kristin. I'm a copywriter/editor. I have
+I'm Kristin. I'm a copywriter/editor with experience in fashion, entertainment, and insurance.
 
 
 ## Examples of my Work
