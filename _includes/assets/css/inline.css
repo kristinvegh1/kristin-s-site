@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #3d428b;
+	--secondary: lightgoldenrodyellow;
+	--background: #8fC0a9;
 }
 
 *, *:before, *:after {
@@ -112,7 +112,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: var(--secondary);
 }
 
 /* Posts List */
