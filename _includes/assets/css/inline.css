@@ -121,30 +121,12 @@ article {
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--secondary);
-	display: flex;
-  	flex-wrap: wrap;
-
-}
-
-article > * {
-  flex: 1 1 30ch;
 }
 
 main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
-	  display: grid;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-
 }
-
-@supports (width: min(250px, 100%)) {
-main > section > article > * {
-    grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
-  }
-}
-
 
 /* Post Tags */
 a[rel="tag"],
