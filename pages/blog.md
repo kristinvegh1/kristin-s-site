@@ -1,10 +1,11 @@
 ---
 layout: layouts/blog.njk
-title: Blog
-metaDescription: A sample Blog page listing various posts and authors.
-date: 2017-01-01
+title: My Work
+metaDescription: Examples of my work can be found below.
+date: 2022-01-01
 permalink: /blog/index.html
 eleventyNavigation:
-  key: Blog
+  key: My Work
   order: 2
 ---
+
